@@ -1,7 +1,7 @@
-**portfolio**<br />
-<hr />
+**<h1>portfolio</h1>**<br />
 
-**1.Front-end projects**<br />
+
+**<h2>1.Front-end projects</h2>**<br />
 <hr />
 
 
@@ -23,8 +23,8 @@
 
 
 
-**2. Two python projects**<br />
+**<h2>2.  python projects</h2>**<br />
 <hr />
 
-**3. Android projects**<br />
+**<h2>3. Android projects</h2>**<br />
 <hr />

@@ -1,7 +1,7 @@
 **<h1>portfolio</h1>**<br />
 
 
-**<h2.Front-end projects</h2>**<br />
+**<h2>Front-end projects</h2>**<br />
 <hr />
 
 
@@ -25,8 +25,8 @@
 
 
 
-**<h2>  python projects</h2>**<br />
+**<h2>python projects<h2>**<br />
 <hr />
 
-**<h2> Android projects</h2>**<br />
+**<h2> Android projects<h2>**<br />
 <hr />

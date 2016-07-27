@@ -1,11 +1,12 @@
 **<h1>portfolio</h1>**<br />
 
 
-**<h2>1.Front-end projects</h2>**<br />
+**<h2.Front-end projects</h2>**<br />
 <hr />
 
 
-**Project name**:music chartlist<br />
+<h3>**1.music chartlist**<h3><br />
+
 **Link to repo**:https://github.com/Martondegz/music-drift<br />
 **Project details**:A music chartlist of the top music albums this month.<br />
 **Features**:Home,content,footer.<br />
@@ -14,7 +15,8 @@
 
 
 
-**Project name**: photomania.<br />
+<h3>**2.Photomania**<h3><br />
+
 **Link to repo**:https://github.com/Martondegz/photomania<br />
 **Project details**:An agency on photography.<br />
 **Features**:Home,blog,team members,footer.<br />
@@ -23,8 +25,8 @@
 
 
 
-**<h2>2.  python projects</h2>**<br />
+**<h2>  python projects</h2>**<br />
 <hr />
 
-**<h2>3. Android projects</h2>**<br />
+**<h2> Android projects</h2>**<br />
 <hr />

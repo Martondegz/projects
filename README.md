@@ -5,7 +5,7 @@
 <hr />
 
 
-**Project name**: music chartlist.<br />
+**Project name**:music chartlist<br />
 **Link to repo**:https://github.com/Martondegz/music-drift<br />
 **Project details**:A music chartlist of the top music albums this month.<br />
 **Features**:Home,content,footer.<br />

@@ -18,7 +18,7 @@
 <h3>**2.Photomania**<h3><br />
 
 *Link to repo:*  https://github.com/Martondegz/photomania<br />
-**Project details:**  An agency on photography.<br />
+*Project details:*  An agency on photography.<br />
 **Features:**  Home,blog,team members,footer.<br />
 **Tools used:** foundation zurb,html and css<br />
 **contributors:**  martondegz

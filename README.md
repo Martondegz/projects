@@ -7,21 +7,21 @@
 
 <h3>**1.music chartlist**<h3><br />
 
-**Link to repo:**https://github.com/Martondegz/music-drift<br />
+**Link to repo:**  https://github.com/Martondegz/music-drift<br />
 **Project details:** A music chartlist of the top music albums this month.<br />
-**Features:**Home,content,footer.<br />
-**Tools used:**foundation zurb,html and css<br />
-**contributors:**martondegz
+**Features:**  Home,content,footer.<br />
+**Tools used:**  foundation zurb,html and css<br />
+**contributors:**  martondegz
 
 
 
 <h3>**2.Photomania**<h3><br />
 
-**Link to repo:**https://github.com/Martondegz/photomania<br />
-**Project details:**An agency on photography.<br />
-**Features:**Home,blog,team members,footer.<br />
-**Tools used:**foundation zurb,html and css<br />
-**contributors:**martondegz
+**Link to repo:**  https://github.com/Martondegz/photomania<br />
+**Project details:**  An agency on photography.<br />
+**Features:**  Home,blog,team members,footer.<br />
+**Tools used:** foundation zurb,html and css<br />
+**contributors:**  martondegz
 
 
 
